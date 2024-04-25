@@ -24,6 +24,6 @@ This project aims to create a platform dedicated to raising awareness about wome
 This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
-- Soham Kishor Ambekar https://github.com/Soham-Ambeka
+- Soham Kishor Ambekar https://github.com/Soham-Ambekar
 
 ---
